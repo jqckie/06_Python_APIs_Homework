@@ -1,7 +1,7 @@
 # Weather API Analysis
 
 ## Instructions
-* Update your [api.openweathermap.org](api.openweathermap.org) API key in [api_keys.py](api_keys.py)
+* Update your [OpenWeatherMap API](https://openweathermap.org/api) key in [api_keys.py](api_keys.py)
 * Run [WeatherPy.ipynb](WeatherPy.ipynb) to create [cities.csv](output_data/cities.csv) and image files for each of the 4 visualizations.
 
 ## Background
