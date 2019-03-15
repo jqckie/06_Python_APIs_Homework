@@ -1,4 +1,4 @@
-# Weather API Analysis
+# Climate API Analysis
 
 ## Instructions
 * Update your [OpenWeatherMap API](https://openweathermap.org/api) key in [api_keys.py](api_keys.py)
